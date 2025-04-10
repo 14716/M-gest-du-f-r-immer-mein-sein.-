@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     height: 100vh;
     background: linear-gradient(rgb(255 255 255 / 90%), rgb(255 63 63 / 0%)), url(image/bgr.jpg);
